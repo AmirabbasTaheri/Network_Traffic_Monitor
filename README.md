@@ -10,7 +10,7 @@ The interface is built with `tkinter`, and traffic data is fetched using the `ps
 
 ## 📸 Screenshot
 
-![screenshot](#) *(Add a screenshot here if you want)*
+<img width="335" height="367" alt="image" src="https://github.com/user-attachments/assets/f59c0748-6690-456c-9521-dbe550d41692" />
 
 ## 🚀 Features
 
