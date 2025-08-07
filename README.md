@@ -32,16 +32,11 @@ tkinter is included with most standard Python distributions.
 ▶️ How to Run
 Save the Python code in a file (e.g. network_monitor.py) and run it:
 
-bash
-Copy
-Edit
 python network_monitor.py
 A window will open showing the network traffic log updating every 10 seconds.
 
 📁 File Structure
-bash
-Copy
-Edit
+
 network_monitor.py   # Main application script
 README.md            # This file
 🧠 How It Works
