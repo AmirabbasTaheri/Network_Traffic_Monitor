@@ -40,6 +40,7 @@ A window will open showing the network traffic log updating every 10 seconds.
 network_monitor.py   # Main application script
 time.exe             # Executable Application with lib embeded
 README.md            # This file
+
 🧠 How It Works
 At launch, the app records the total bytes sent/received.
 
